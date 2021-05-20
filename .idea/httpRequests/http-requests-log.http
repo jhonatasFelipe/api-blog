@@ -1,0 +1,201 @@
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email":"jhonatas1020@gmail.com",
+  "password": "$2y$10$ofeVLCN54NROC6LBDCRg.eQUAeLJtlzF5RgPZBcGz1wKEm1kuWxN6"
+}
+
+<> 2021-01-12T153131.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password":"12345"
+}
+
+<> 2021-01-12T152911.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password":"$2y$10$ofeVLCN54NROC6LBDCRg.eQUAeLJtlzF5RgPZBcGz1wKEm1kuWxN6"
+}
+
+<> 2021-01-12T151226.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password": "$2y$10$YNaeM0DF3w.JXBI5C9dqq.jjjy2OhMRDgtbELUfLtY4mDPFiIjmcK"
+}
+
+<> 2021-01-12T151109.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password": "$2y$10$YNaeM0DF3w.JXBI5C9dqq.jjjy2OhMRDgtbELUfLtY4mDPFiIjmcK⏎"
+}
+
+<> 2021-01-12T151057.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "e-mail": "jhonatas1020@gmail.com",
+  "password": "12345"
+}
+
+<> 2021-01-12T142310.422.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password": "12345"
+}
+
+<> 2021-01-12T142100.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas felipe",
+  "password": "12345"
+}
+
+<> 2021-01-12T142023.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password": 12345
+}
+
+<> 2021-01-12T141953.422.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password": "12345"
+}
+
+<> 2021-01-12T141908.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "teste",
+  "password": "teste"
+}
+
+<> 2021-01-12T141715.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password": "teste"
+}
+
+<> 2021-01-12T141637.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password": "klapaucius"
+}
+
+<> 2021-01-12T141605.400.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+accept: text/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password": "klapaucius"
+}
+
+<> 2021-01-12T135842.500.json
+
+###
+
+POST http://localhost:8000/api/login
+Content-Type: application/json
+
+{
+  "email": "jhonatas1020@gmail.com",
+  "password": "klapaucius"
+}
+
+<> 2021-01-12T135732.500.html
+
+###
+
+GET http://localhost:8000/api/user
+Accept: application/json
+
+<> 2021-01-12T135504.401.json
+
+###
+
